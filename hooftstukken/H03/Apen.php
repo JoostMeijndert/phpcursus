@@ -33,6 +33,6 @@
 <br><br>
 <a href="H03.php"><button type="button">Hoofdstuk 3 index</button></a>
 <br><br>
-<a href="../index.php"><button type="button">index</button></a>
+<a href="../../index.php"><button type="button">index</button></a>
 </body>
 </html>

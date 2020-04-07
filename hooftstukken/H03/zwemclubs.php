@@ -11,7 +11,7 @@
         }
 
         img{
-            height: =25;
+            width: 20px;
         }
     </style>
 </head>
@@ -41,7 +41,7 @@
      echo "<td>";
      $plaatjes = floor($zwemmers / 5);
      for($i = 0; $i < $plaatjes; $i++){
-         echo '<img src="recources/zwem.png" alt = "plaatje">';
+         echo '<img src="../../zwemmen/zwem.png" alt = "plaatje">';
      }
      echo "</td>";
 
@@ -51,7 +51,7 @@
 ?>
 </table>
 <br><br>
-<a href="H03.php"><button type="button">Hoofdstuk 3 index</button></a>
+<a href="H03/H03.php"><button type="button">Hoofdstuk 3 index</button></a>
 <br><br>
 <a href="../index.php"><button type="button">index</button></a>
 </body>
